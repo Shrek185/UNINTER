@@ -1,4 +1,7 @@
 """"
+Autor : Douglas Nascimento (Shrek18.5)
+Obs: Execício baseado no curso de ADS da UNINTER modulo EAD de 2022
+
 Escreva as seguintes expressões booleanas em linguagem Python:
 
 a) 1387 é divisível por 19

@@ -1,4 +1,7 @@
 """
+Autor : Douglas Nascimento (Shrek18.5)
+Obs: Execício baseado no curso de ADS da UNINTER modulo EAD de 2022
+
 Escreva as seguites expressões boolenas em lunguagem Python:/
 
 a) Somatória de 2 com 2 é menor que 4

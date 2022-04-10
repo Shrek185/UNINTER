@@ -1,3 +1,11 @@
+"""
+Autor : Douglas Nascimento (Shrek18.5)
+Obs: Execício baseado no curso de ADS da UNINTER modulo EAD de 2022
+
+Escreva as seguinte expressões algébricas em Linguagem Python
+
+""""
+
 # Execute as seguintes atribuiçoes
 
 s1 = 'ant'
