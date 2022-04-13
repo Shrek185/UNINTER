@@ -21,3 +21,13 @@ if ano % 100 != 0 and ano % 4 == 0 or ano % 400 == 0:
     print('É um ano bissexto')
 else:
     print('Não é bissexto')
+
+
+
+cima = input('Para CIMA ou para BAIXO: ')
+baixo = input('Para CIMA ou para BAIXO: ')
+
+if cima == 'CIMA' and baixo == 'BAIXO':
+    print('DECIDA-SE!')
+else:
+    print('Você escolheu um caminho')
